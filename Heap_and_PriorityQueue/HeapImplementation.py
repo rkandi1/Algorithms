@@ -8,8 +8,6 @@ so entries only consist of a single item, not a (key,value) pair.
 
 Only handling a min_heap here. Could swap the comparisons to make it a max_heap
 or use the operator functions as done in heap.py
-
-@author: John Sterling
 """
 
 class Heap:

@@ -86,6 +86,8 @@ class DoublyLinkedList:
 
 ##################################################################################################################
 
+# Uses DoublyLinkedList to seperate every number in the integer to perform calculations
+
 class Integer:
     def __init__(self, num_str):
         self.dll = DoublyLinkedList()
